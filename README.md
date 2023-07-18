@@ -93,6 +93,6 @@ The mosy category of bikes customers shoped for was Mountain Bikes, bringing in 
 #### DASHBOARD
 
 ![](dashboards.jpg)
-You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/fc02f5bf-44f8-4f36-8964-570875ff335a/ReportSection)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/fc02f5bf-44f8-4f36-8964-570875ff335a/ReportSection)
 
 
