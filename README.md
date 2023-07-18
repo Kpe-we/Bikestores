@@ -58,14 +58,34 @@ Now we have our final table bikestore_dataset, consisting of 4722 row and 13 col
 
 ### DATA ANALYSIS AND VISUALS
 
+![](revenue_by_month.jpg)
+
+At $1,350,508, April had the highest Sum of revenue and was 174.76% higher than July, which had the lowest Sum of revenue at $491,531.  April accounted for 15.74% of Sum of revenue.
+
+---
+![](revenue_per_sales_rep.jpg)
+
+Marcelene Boyer had the highest Sum of revenue of $2.9M and was 559.08% higher than Layla Terrell, which had the lowest Sum of revenue at $445,905/ Marcelene Boyer accounted for 34.26% of the total Sum of revenue.
+
+---
+![](revenue_by_year.jpg)
+
+2017 had the highest sum of revenue with $3.85M and 2018 having the least with $2M. The Sum of revenue trended down, resulting in a 25.30% decrease between 2016 and 2018. 
+---
+![](top_10_customers.jpg)
+
+From the top 10 customers analysis, Pamelia Newman had the highest Sum of revenue of At $37,801.84, and was 36.87% higher than Shena Carter, which had the least of $27,618.95.  []  Pamelia Newman accounted for 11.31% of the revenue from the Top 10 Customers.
+---
+
+
+
+
+
+
+
+
+
 ![](dashboards.jpg)
-
-
-
-
-
-
-
 
 
 
