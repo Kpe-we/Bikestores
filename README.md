@@ -60,7 +60,7 @@ Now we have our final table bikestore_dataset, consisting of 4722 row and 13 col
 
 ![](revenue_by_month.jpg)
 
-At $1,350,508, April had the highest Sum of revenue and was 174.76% higher than July, which had the lowest Sum of revenue at $491,531.  April accounted for 15.74% of Sum of revenue.
+At $1,350,508, April had the highest Sum of revenue and was 174.76% higher than July, which had the lowest Sum of revenue at $491,531.  April accounted for 15.74% of the total revenue.
 
 ---
 ![](revenue_per_sales_rep.jpg)
@@ -71,23 +71,28 @@ Marcelene Boyer had the highest Sum of revenue of $2.9M and was 559.08% higher t
 ![](revenue_by_year.jpg)
 
 2017 had the highest sum of revenue with $3.85M and 2018 having the least with $2M. The Sum of revenue trended down, resulting in a 25.30% decrease between 2016 and 2018. 
+
 ---
 ![](top_10_customers.jpg)
 
-From the top 10 customers analysis, Pamelia Newman had the highest Sum of revenue of At $37,801.84, and was 36.87% higher than Shena Carter, which had the least of $27,618.95.  []  Pamelia Newman accounted for 11.31% of the revenue from the Top 10 Customers.
+From the top 10 customers analysis, Pamelia Newman had the highest Sum of revenue of At $37,801.84, and was 36.87% higher than Shena Carter, which had the least of $27,618.95. Pamelia Newman accounted for 11.31% of the revenue from the Top 10 Customers.
+
+---
+![](revenue_per_state.jpg)
+
+NY(Baldwin bike) accounted for 67.91%($5.83M) of the revenue from the analysis, with CA(Santa Cruz Bikes) and TX(Rowlett Bikes) accounting for 20.87%($1.79M) and 11.22%($960,000) respectively.
+
+---
+![](revenue_per_categories.jpg)
+
+The mosy category of bikes customers shoped for was Mountain Bikes, bringing in about 35% of th total revenue. Children Bikes sold the least with only about $330K sold.
+
 ---
 
 
-
-
-
-
-
-
+#### DASHBOARD
 
 ![](dashboards.jpg)
-
-
-
-
 You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/fc02f5bf-44f8-4f36-8964-570875ff335a/ReportSection)
+
+
