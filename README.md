@@ -3,7 +3,7 @@
 ### INTODUCTION 
 
 This is a analysis of an imaginery store called **Bikestores**. The project helps analysis sales summary and help answer questions to help the store make data driven decisions.
-This project is an exhibition of my skill in using SQL Server to interact with relational database and Microsoft Power BI to build beautiful visuals.
+This project is an exhibition of my skill in using SQL Server to interact with relational database.
 
 ---
 ### DATA SOURCING
@@ -25,8 +25,8 @@ The database contains the following tables:
 ### PROBLEM STATEMENT
 
 1.	The stakeholders want to know the condition of sales activities within the companies and gain insights into the various trends happening in the sales volume over time.
-2.	The stakeholders also wants to know the revenue per region, store, product and brand.
-3.	List of top customer and sales rep would also prove useful.
+2.	The stakeholders also wants to know the Revenue generated per region, store, product and brand.
+3.	List of top buying customers and also top Sales Rep would also prove useful.
 
 ---
 ### DATA TRANSFORMATION/CLEANING
@@ -55,6 +55,10 @@ Next, we have to SELECT only the columns we need INTO a new table bikestore_data
 
 Now we have our final table bikestore_dataset, consisting of 4722 row and 13 columns, which would be used for the analysis. Lets show the table, limiting it to only the first 10 rows.
 ![](bikestore_dataset.png)
+
+
+
+
 
 ### DATA ANALYSIS AND VISUALS
 
