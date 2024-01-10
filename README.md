@@ -22,13 +22,6 @@ The database contains the following tables:
 -	sales.stores with 3 rows and 8 columns.
 
 ---
-### PROBLEM STATEMENT
-
-1.	The stakeholders want to know the condition of sales activities within the companies and gain insights into the various trends happening in the sales volume over time.
-2.	The stakeholders also wants to know the Revenue generated per region, store, product and brand.
-3.	List of top buying customers and also top Sales Rep would also prove useful.
-
----
 ### DATA TRANSFORMATION/CLEANING
 
 First thing I did was to JOIN (left join) all the tables together INTO a new table (total_column), aliasing them as necessary to complete the joins. This new table consisted of 4722 rows and 19 columns.
@@ -53,8 +46,23 @@ Next, we have to SELECT only the columns we need INTO a new table bikestore_data
 •	we created a new column (sales_rep), concatenating rep and rep2 columns
 ![](create_bikestore.png)
 
-Now we have our final table bikestore_dataset, consisting of 4722 row and 13 columns, which would be used for the analysis. Lets show the table, limiting it to only the first 10 rows.
+Now to see the overview of the table
+![]()
+
+Now before we jump imto analysis, this is what the first 10 rows of the table look like. Consisting of 4722 row and 13 columns.
 ![](bikestore_dataset.png)
+
+---
+### PROBLEM STATEMENT
+1.	The stakeholders want to know the condition of sales activities within the companies and gain insights into the various trends happening in the sales volume over time.
+2.	The stakeholders also wants to know the Revenue generated per region, store, product and brand.
+3.	List of top buying customers and also top Sales Rep would also prove useful.
+
+---
+### EXPLORATORY ANALYSIS 
+First, lets look at the total number of orders 
+![]()
+
 
 
 
