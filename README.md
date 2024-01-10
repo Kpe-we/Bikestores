@@ -47,7 +47,7 @@ Next, we have to SELECT only the columns we need INTO a new table bikestore_data
 ![](create_bikestore.png)
 
 Now to see the overview of the table
-![]()
+![](overview.png)
 
 Now before we jump imto analysis, this is what the first 10 rows of the table look like. Consisting of 4722 row and 13 columns.
 ![](bikestore_dataset.png)
@@ -60,9 +60,24 @@ Now before we jump imto analysis, this is what the first 10 rows of the table lo
 
 ---
 ### EXPLORATORY ANALYSIS 
-First, lets look at the total number of orders 
-![]()
 
+First, lets look at the total number of orders.                                                                                   
+![](total_orders.png)
+
+Of the total orders of 4722, this is how it spread out across the 3 years data was collected 
+![](total_orders_year.png)
+
+This is the total number of orders by the month the order was made, April had the highest orders with a total of 669 orders. 
+![](total_orders_month.png)
+
+#### The stakeholders would like to see the total revenue (in dollars) generated across all aspects.
+
+2017 had the highest Sum of Revenue with $3.44M and 2018 having the least with $1.8M. Sum of Revenue trended down, resulting in a 25.25% decrease between 2016 and 2018.
+![](revenue_year.png)
+
+At $1,21M, April had the highest Sum of Revenue and was 174.98% higher than July, which had the lowest Sum of Sales at $440,890
+April accounted for 15.77% of the Total Revenue. 
+![](revenue_month.png)
 
 
 
