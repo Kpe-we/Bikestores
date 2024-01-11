@@ -62,13 +62,17 @@ Now before we jump imto analysis, this is what the first 10 rows of the table lo
 ### EXPLORATORY ANALYSIS 
 
 First, lets look at the total number of orders.                                                                                   
-![](total_orders.png)
+![](Total_Orders.png)
 
-Of the total orders of 4722, this is how it spread out across the 3 years data was collected 
-![](total_orders_year.png)
+Total number of Transactions 
+![](Total_Transactions.png)
 
-This is the total number of orders by the month the order was made, April had the highest orders with a total of 669 orders. 
-![](total_orders_month.png)
+Of the total transactions of 4722, this is how it spread out across the 3 years data was collected 
+![](Total_TransactionsYear.png)
+
+This is the total number of transactions by month, April had the highest number of Transaction with a total of 669. 
+![](Total_TransactionsMonth.png)
+
 
 #### The stakeholders would like to see the total revenue (in dollars) generated across all aspects.
 
